@@ -1,0 +1,11 @@
+*.*~
+*~
+__pycache__/
+*.pyc
+\#*\#
+.\#*
+*.so
+*.egg-info/
+
+scripts/
+build/
